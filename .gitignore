@@ -17,7 +17,7 @@ yarn-error.log*
 .env.production.local
 
 # Pasta com programas e downloads que não quer versionar
-Code/Programs and Plugins/
+Code/
 
 # Arquivos temporários do sistema
 .DS_Store
